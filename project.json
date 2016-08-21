@@ -1,0 +1,9 @@
+
+{
+  "name": "aws-snapshot-check",
+  "description": "",
+  "memory": 128,
+  "timeout": 120,
+  "role": "arn:aws:iam::743065858817:role/aws-snapshot-check_lambda_function",
+  "environment": {}
+}
